@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealtimeTraffic</string>
+    <string name="traffic_amout">실시간 전국 권역별 교통량</string>
+    <string name="traffic_route">실시간 전국 고속도로별 교통량</string>
+    <string name="traffic_status">고속도로별 점유율, 정체 속도 (평균)</string>
+    <string name="traffic_status2">도시 간 소요시간(서울-주요도시)</string>
+    <string name="refresh_time">%d초 후 갱신</string>
+</resources>
